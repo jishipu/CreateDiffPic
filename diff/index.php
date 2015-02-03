@@ -25,7 +25,7 @@ $new = file_get_contents(SITE_PATH."/log/new");
     var $ = dojo.byId;
     dojo.require("dojo.io");
     function diffUsingJS() {
-        var base_text = js_beautify($("baseText").value, 4, '');
+                var base_text = js_beautify($("baseText").value, 4, '');
     		var new_text = js_beautify($("newText").value, 4, '');
     		var base = difflib.stringAsLines(base_text);
     		var newtxt = difflib.stringAsLines(new_text);
