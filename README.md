@@ -13,4 +13,4 @@
   ?>
 ```
 
-PhantomJS: [http://phantomjs.org](http://weibo.com/ihubo)
+PhantomJS: [http://phantomjs.org](http://phantomjs.org/)
