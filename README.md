@@ -12,5 +12,6 @@
     shell_exec($command);
   ?>
 ```
-
+生成图片效果：
+![image](https://github.com/jishipu/CreateDiffPic/blob/master/log/diff.png)
 PhantomJS: [http://phantomjs.org](http://phantomjs.org/)
